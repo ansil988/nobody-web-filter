@@ -28,7 +28,7 @@ async def start(client, message):
                     InlineKeyboardButton('♚ Bᴏᴛ Oᴡɴᴇʀ', callback_data="owner_info"),
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help')
                 ],[
-                    InlineKeyboardButton('📺 Movie Group 📺', url=GRP_LNK)
+                    InlineKeyboardButton('📺 𝗠𝗼𝘃𝗶𝗲 𝗚𝗿𝗼𝘂𝗽 🎭', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('🎬 𝗡𝗲𝘄 𝗢𝘁𝘁 𝗠𝗼𝘃𝗶𝗲𝘀 🍿', url=CHNL_LNK)
                   ]]
@@ -55,7 +55,7 @@ async def start(client, message):
                     InlineKeyboardButton('♚ Bᴏᴛ Oᴡɴᴇʀ', callback_data="owner_info"),
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help')
                 ],[
-                    InlineKeyboardButton('📺 Movie Group 📺', url=GRP_LNK)
+                    InlineKeyboardButton('📺 𝗠𝗼𝘃𝗶𝗲 𝗚𝗿𝗼𝘂𝗽 🎭', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('🎬 𝗡𝗲𝘄 𝗢𝘁𝘁 𝗠𝗼𝘃𝗶𝗲𝘀 🍿', url=CHNL_LNK)
                   ]]
@@ -78,7 +78,7 @@ async def start(client, message):
                     InlineKeyboardButton('♚ Bᴏᴛ Oᴡɴᴇʀ', callback_data="owner_info"),
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help')
                 ],[
-                    InlineKeyboardButton('📺 Movie Group 📺', url=GRP_LNK)
+                    InlineKeyboardButton('📺 𝗠𝗼𝘃𝗶𝗲 𝗚𝗿𝗼𝘂𝗽 🎭', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('🎬 𝗡𝗲𝘄 𝗢𝘁𝘁 𝗠𝗼𝘃𝗶𝗲𝘀 🍿', url=CHNL_LNK)
                   ]]
@@ -137,7 +137,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('📺 Movie Group 📺', url=GRP_LNK)
+                          InlineKeyboardButton('📺 𝗠𝗼𝘃𝗶𝗲 𝗚𝗿𝗼𝘂𝗽 🎭', url=GRP_LNK)
                        ],[
                           InlineKeyboardButton('🎬 𝗡𝗲𝘄 𝗢𝘁𝘁 𝗠𝗼𝘃𝗶𝗲𝘀 🍿', url=CHNL_LNK)
                          ]
@@ -155,7 +155,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('📺 Movie Group 📺', url=GRP_LNK)
+                          InlineKeyboardButton('📺 𝗠𝗼𝘃𝗶𝗲 𝗚𝗿𝗼𝘂𝗽 🎭', url=GRP_LNK)
                        ],[
                           InlineKeyboardButton('🎬 𝗡𝗲𝘄 𝗢𝘁𝘁 𝗠𝗼𝘃𝗶𝗲𝘀 🍿', url=CHNL_LNK)
                          ]
@@ -273,7 +273,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('📺 Movie Group 📺', url=GRP_LNK)
+                      InlineKeyboardButton('📺 𝗠𝗼𝘃𝗶𝗲 𝗚𝗿𝗼𝘂𝗽 🎭', url=GRP_LNK)
                    ],[
                       InlineKeyboardButton('🎬 𝗡𝗲𝘄 𝗢𝘁𝘁 𝗠𝗼𝘃𝗶𝗲𝘀 🍿', url=CHNL_LNK)
                      ]
@@ -326,7 +326,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton('📺 Movie Group 📺', url=GRP_LNK)
+              InlineKeyboardButton('📺 𝗠𝗼𝘃𝗶𝗲 𝗚𝗿𝗼𝘂𝗽 🎭', url=GRP_LNK)
            ],[
               InlineKeyboardButton('🎬 𝗡𝗲𝘄 𝗢𝘁𝘁 𝗠𝗼𝘃𝗶𝗲𝘀 🍿', url=CHNL_LNK)
              ]

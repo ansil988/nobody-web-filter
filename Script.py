@@ -193,7 +193,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><i>{file_name} » {file_size} › ━━━━━━━━━━━━━━━━━━ [📺 𝗠𝗢𝗩𝗜𝗘𝗦 𝗖𝗛𝗔𝗡𝗡𝗘𝗟👇](https://t.me/+70j7cVUQSIUyNjI1)</i></b> https://t.me/+70j7cVUQSIUyNjI1 https://t.me/+70j7cVUQSIUyNjI1"""
+    CAPTION = """<b><i>{file_name} » {file_size} › ━━━━━━━━━━━━━━━━━━ [📺 𝗠𝗢𝗩𝗜𝗘𝗦 𝗖𝗛𝗔𝗡𝗡𝗘𝗟👇](https://t.me/+UqzLz8-1lUViNWQ1)</i></b> https://t.me/+UqzLz8-1lUViNWQ1 https://t.me/+UqzLz8-1lUViNWQ1"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
