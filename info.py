@@ -48,7 +48,7 @@ JOIN_REQS_DB = environ.get('DATABASE_URI', "mongodb+srv://shaijata0541:shaijata0
 
 # MongoDB information
 SECONDDB_URI = environ.get('SECONDDB_URI', "mongodb+srv://shaijata054:shaijata054@cluster0.ku994.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://shaijata0541:shaijata0541@cluster0.ywb0u.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://vkthouseef1:vkthouseef1@cluster0.7ig3c.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'andi')
 
